@@ -1,4 +1,4 @@
-module https://github.com/stjNida/docker-go
+module github.com/stjNida/docker-go
 
 go 1.16
 
